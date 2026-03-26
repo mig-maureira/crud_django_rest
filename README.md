@@ -24,8 +24,8 @@ Para ejecutar este proyecto de forma local, necesitas tener instalado:
 1.  **Clonar el repositorio:**
 
     ```bash
-    git clone <url-de-tu-repositorio>
-    cd <nombre-del-directorio>
+    git clone https://github.com/mig-maureira/crud_django_rest
+    cd crud_django_rest
     ```
 
 2.  **Crear y activar un entorno virtual:**
